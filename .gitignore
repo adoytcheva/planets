@@ -1,4 +1,4 @@
-*final*
+final*
 *.csv
 results/
-+!final.csv
+!final.csv
